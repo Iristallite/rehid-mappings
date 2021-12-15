@@ -23,8 +23,8 @@ For your convenience, inverted-camera versions are available for applicable game
 
 
 ## Luigi's Mansion: Dark Moon
-``
->
+`0004000000055F00`
+> Extra shoulder controls, like LM1-3DS and LM3
 
 * Maps ZL to Y for Dark-Light Device
 * Maps ZR to A for Strobulb
