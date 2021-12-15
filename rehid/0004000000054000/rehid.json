@@ -1,0 +1,8 @@
+{
+"touch":
+[
+{"press":"SELECT","get":[160,120]},
+{"press":"CSLEFT","get":[240,205]},
+{"press":"CSRIGHT","get":[285,160]}
+]
+}
