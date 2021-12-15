@@ -20,6 +20,7 @@ For your convenience, inverted-camera versions are available for applicable game
 
 * Maps C-Stick to L/R for camera movement
 * Maps ZL/ZR to D-Pad for switching costumes
+
 **Inverted-camera version available!**
 
 ## Luigi's Mansion: Dark Moon
