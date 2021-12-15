@@ -1,1 +1,7 @@
-{"keys":[{"press":"CSLEFT","get":"LEFT"},{"press":"CSRIGHT","get":"RIGHT"}]}
+{
+"keys":
+[
+{"press":"CSLEFT","get":"LEFT"},
+{"press":"CSRIGHT","get":"RIGHT"}
+]
+}
