@@ -15,7 +15,7 @@ For your convenience, inverted-camera versions are available for applicable game
 
 ## LEGO City Undercover: The Chase Begins
 `00040000000AD500`
-> No more taking your thmb off the circle pad to switch costumes!
+> No more taking your thumb off the circle pad to switch costumes!
 > (Oh right there's also C-Stick camera movement)
 
 * Maps C-Stick to L/R for camera movement
