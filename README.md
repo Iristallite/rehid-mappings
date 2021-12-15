@@ -3,6 +3,8 @@ Remappings that I use with the 3DS plugin rehid
 
 **(Mappings use n3DS buttons, so won't work on o3DS)**
 
+For your convenience, inverted-camera versions are available for applicable games.
+
 ## Metroid: Samus Returns
 `00040000001BB200`
 > No more hand cramps! (At least on n2DSXL)
