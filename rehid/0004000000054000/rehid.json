@@ -1,8 +1,0 @@
-{
-"touch":
-[
-{"press":"CSLEFT","get":[236,31]},
-{"press":"CSRIGHT","get":[209,77]},
-{"press":"SELECT","get":[160,114]}
-]
-}
