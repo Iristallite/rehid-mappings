@@ -11,6 +11,8 @@ Maps ZR to center of touch screen for Morph Ball
 
 ## LEGO City Undercover: The Chase Begins
 `00040000000AD500`
+C-Stick mapped to L/R for camera movement
+ZL/ZR mapped to D-Pad for switching costumes
 > No more taking your thmb off the circle pad to switch costumes!
 > (Oh right there's also C-Stick camera movement)
 
