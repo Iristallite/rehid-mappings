@@ -31,7 +31,9 @@ For your convenience, inverted-camera versions are available for applicable game
 * Maps ZR to A for Strobulb
 * Maps SELECT to center of touch screen for answering calls
 
-## 
+## Super Mario 3D Land
+`0004000000054000`
+> C-Stick camera movement, and SELECT for Item Reserve!
 
 ## 
 
