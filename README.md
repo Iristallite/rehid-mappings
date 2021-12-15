@@ -27,6 +27,8 @@ For your convenience, inverted-camera versions are available for applicable game
 >
 
 * Maps
+* Maps
+* Maps SELECT to center of touch screen for answering calls
 
 ## 
 
