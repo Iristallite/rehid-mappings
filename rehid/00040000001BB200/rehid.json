@@ -5,7 +5,8 @@
 {"press":"CSDOWN","get":"DOWN"},
 {"press":"CSLEFT","get":"LEFT"},
 {"press":"CSRIGHT","get":"RIGHT"},
-{"press":"ZL","get":"A"}],
+{"press":"ZL","get":"A"}
+],
 "touch":
 [
 {"press":"ZR","get":[160,120]}
