@@ -35,6 +35,9 @@ For your convenience, inverted-camera versions are available for applicable game
 `0004000000054000`
 > C-Stick camera movement, and SELECT for Item Reserve!
 
+* Maps C-Stick to touch-buttons for camera movement
+* Maps SELECT to center of touch screen for Item Reserve
+
 ## 
 
 ## 
