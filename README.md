@@ -22,7 +22,11 @@ For your convenience, inverted-camera versions are available for applicable game
 * Maps ZL/ZR to D-Pad for switching costumes
 
 
-## 
+## Luigi's Mansion: Dark Moon
+``
+>
+
+* Maps
 
 ## 
 
