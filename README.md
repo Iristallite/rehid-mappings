@@ -26,8 +26,8 @@ For your convenience, inverted-camera versions are available for applicable game
 ``
 >
 
-* Maps
-* Maps
+* Maps ZL to Y for Dark-Light Device
+* Maps ZR to A for Strobulb
 * Maps SELECT to center of touch screen for answering calls
 
 ## 
