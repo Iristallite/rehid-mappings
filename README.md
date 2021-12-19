@@ -20,6 +20,7 @@ For your convenience, inverted-camera versions are available for applicable game
 
 * Maps C-Stick to L/R for camera movement
 * Maps ZL/ZR to D-Pad for switching costumes
+* Maps SELECT to D-Pad down for Whistle (This was only implemented so I could still have full D-Pad functionality when using InputRedirection lol)
 
 **Inverted-camera version available!**
 
