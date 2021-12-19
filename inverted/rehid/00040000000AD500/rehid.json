@@ -1,9 +1,10 @@
 {
-"keys":
-[
-{"press":"ZL","get":"LEFT"},
-{"press":"ZR","get":"RIGHT"},
-{"press":"CSLEFT","get":"R"},
-{"press":"CSRIGHT","get":"L"}
-]
+ "keys":
+  [
+   {"press":"ZL","get":"LEFT"},
+   {"press":"ZR","get":"RIGHT"},
+   {"press":"CSLEFT","get":"R"},
+   {"press":"CSRIGHT","get":"L"},
+   {"press":"SELECT","get":"DOWN"}
+  ]
 }
