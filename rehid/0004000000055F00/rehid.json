@@ -1,11 +1,11 @@
 {
-"keys":
-[
-{"press":"ZL","get":"Y"},
-{"press":"ZR","get":"A"}
-],
-"touch":
-[
-{"press":"SELECT","get":[160,120]}
-]
+ "keys":
+  [
+   {"press":"ZL","get":"Y"},
+   {"press":"ZR","get":"A"}
+  ],
+ "touch":
+  [
+   {"press":"SELECT","get":[160,120]}
+  ]
 }
