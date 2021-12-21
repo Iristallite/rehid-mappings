@@ -22,15 +22,7 @@ For your convenience, inverted-camera versions are available for applicable game
 * Maps ZL/ZR to D-Pad for switching costumes
 * Maps SELECT to D-Pad down for Whistle (This was only implemented so I could still have full D-Pad functionality when using InputRedirection lol)
 
-**Inverted-camera version available!**
-
-## Luigi's Mansion: Dark Moon
-`0004000000055F00`
-> Extra shoulder controls, like LM1-3DS and LM3
-
-* Maps ZL to Y for Dark-Light Device
-* Maps ZR to A for Strobulb
-* Maps SELECT to center of touch screen for answering calls
+**Game has invert-camera option built-in!**
 
 ## Super Mario 3D Land
 `0004000000054000`
