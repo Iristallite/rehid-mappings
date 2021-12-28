@@ -1,12 +1,12 @@
 # rehid-mappings
-Remappings that I use with the 3DS plugin rehid
+Remappings that I use with the 3DS plugin [rehid](https://github.com/hax0kartik/rehid)
 
 **(Mappings use n3DS buttons, so won't work on o3DS)**
 
 For your convenience, inverted-camera versions are available for applicable games.
 
 ## Metroid: Samus Returns
-`00040000001BB200`
+Title ID: `00040000001BB200`
 > No more hand cramps! (At least on n2DSXL)
 
 * Maps C-Stick to D-Pad for selecting Aeion abilites
@@ -14,7 +14,7 @@ For your convenience, inverted-camera versions are available for applicable game
 * Maps ZR to center of touch screen for Morph Ball
 
 ## LEGO City Undercover: The Chase Begins
-`00040000000AD500`
+Title ID: `00040000000AD500`
 > No more taking your thumb off the circle pad to switch costumes!
 > (Oh right there's also C-Stick camera movement)
 
@@ -25,7 +25,7 @@ For your convenience, inverted-camera versions are available for applicable game
 **Game has invert-camera option built-in!**
 
 ## Super Mario 3D Land
-`0004000000054000`
+Title ID: `0004000000054000`
 > C-Stick camera movement, and SELECT for Item Reserve!
 
 * Maps C-Stick to touch-buttons for camera movement
