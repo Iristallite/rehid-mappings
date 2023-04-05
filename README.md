@@ -34,7 +34,7 @@ Title ID: `0004000000054000`
 **Inverted-camera version available!**
 
 ## LEGO Game mappings
-> I don't like touching the touch screen with my thumbs.
+> I really don't like touching the touch screen with my thumbs.
 
 ### LEGO Legends of Chima: Laval's Journey
 Title ID: `00040000000AF800`  
