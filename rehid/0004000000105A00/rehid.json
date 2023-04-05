@@ -1,0 +1,7 @@
+{
+  "touch": [
+    {"press":"ZL","get":[50,61]},
+    {"press":"ZR","get":[274,56]},
+    {"press": "SELECT","get":[161,122]}
+  ]
+}

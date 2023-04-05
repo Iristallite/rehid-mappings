@@ -44,3 +44,9 @@ Title ID: `00040000000AF800`
 (The last two only work when the character wheel is being displayed -- hold X to show it if a map is being displayed at the time)
 
 **Game has invert-camera option built-in!**
+
+### The LEGO Movie Videogame
+Title ID: `0004000000105A00`  
+* Maps ZR to the Special Attack button on the touch screen
+* Maps ZL to the character icon on the touch screen
+* Maps SELECT to the center of the touch screen (for free play character switching)
