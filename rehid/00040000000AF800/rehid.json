@@ -1,0 +1,13 @@
+{
+  "keys":[
+    {"press":"CSLEFT","get":"L"},
+    {"press":"CSRIGHT","get":"R"}
+  ],
+  "touch":[
+    {"press":"ZL","get":[36,212]},
+    {"press":"ZR","get":[288,211]},
+    {"press":"SELECT","get":[162,105]},
+    {"press":"ZL","get":[38,170]},
+    {"press":"ZR","get":[288,171]}
+  ]
+}
