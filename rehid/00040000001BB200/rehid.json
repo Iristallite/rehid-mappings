@@ -1,14 +1,12 @@
 {
- "keys":
-  [
-   {"press":"CSUP","get":"UP"},
-   {"press":"CSDOWN","get":"DOWN"},
-   {"press":"CSLEFT","get":"LEFT"},
-   {"press":"CSRIGHT","get":"RIGHT"},
-   {"press":"ZL","get":"A"}
+  "keys":[
+    {"press":"CSUP","get":"UP"},
+    {"press":"CSDOWN","get":"DOWN"},
+    {"press":"CSLEFT","get":"LEFT"},
+    {"press":"CSRIGHT","get":"RIGHT"},
+    {"press":"ZL","get":"A"}
   ],
- "touch":
-  [
-   {"press":"ZR","get":[160,120]}
+  "touch":[
+    {"press":"ZR","get":[160,120]}
   ]
 }
