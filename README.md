@@ -32,3 +32,15 @@ Title ID: `0004000000054000`
 * Maps SELECT to center of touch screen for Item Reserve
 
 **Inverted-camera version available!**
+
+## LEGO Game mappings
+> I don't like touching the touch screen with my thumbs.
+
+### LEGO Legends of Chima: Laval's Journey
+Title ID: `00040000000AF800`  
+* Maps C-Stick to L/R for camera movement
+* Maps ZL/ZR to the map buttons on the touch screen
+* Maps SELECT to the center of the touch screen to CHI up
+(The last two only work when the character wheel is being displayed -- hold X to show it if a map is being displayed at the time)
+
+**Game has invert-camera option built-in!**
