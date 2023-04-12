@@ -13,17 +13,6 @@ Title ID: `00040000001BB200`
 * Maps ZL to A to activate Aeion abilites
 * Maps ZR to center of touch screen for Morph Ball
 
-## LEGO City Undercover: The Chase Begins
-Title ID: `00040000000AD500`
-> No more taking your thumb off the circle pad to switch costumes!
-> (Oh right there's also C-Stick camera movement)
-
-* Maps C-Stick to L/R for camera movement
-* Maps ZL/ZR to D-Pad for switching costumes
-* Maps SELECT to D-Pad down for Whistle (This was only implemented so I could still have full D-Pad functionality when using InputRedirection lol)
-
-**Game has invert-camera option built-in!**
-
 ## Super Mario 3D Land
 Title ID: `0004000000054000`
 > C-Stick camera movement, and SELECT for Item Reserve!
@@ -35,6 +24,17 @@ Title ID: `0004000000054000`
 
 ## LEGO Game mappings
 > I really don't like touching the touch screen with my thumbs.
+
+### LEGO City Undercover: The Chase Begins
+Title ID: `00040000000AD500`
+> No more taking your thumb off the circle pad to switch costumes!
+> (Oh right there's also C-Stick camera movement)
+
+* Maps C-Stick to L/R for camera movement
+* Maps ZL/ZR to D-Pad for switching costumes
+* Maps SELECT to D-Pad down for Whistle (This was only implemented so I could still have full D-Pad functionality when using InputRedirection lol)
+
+**Game has invert-camera option built-in!**
 
 ### LEGO Legends of Chima: Laval's Journey
 Title ID: `00040000000AF800`  
