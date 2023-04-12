@@ -6,7 +6,7 @@ Remappings that I use with the 3DS plugin [rehid](https://github.com/hax0kartik/
 For your convenience, inverted-camera versions are available for applicable games.
 
 ## Metroid: Samus Returns
-Title ID: `00040000001BB200`
+Title ID [NA]: `00040000001BB200`
 > No more hand cramps! (At least on n2DSXL)
 
 * Maps C-Stick to D-Pad for selecting Aeion abilites
@@ -14,7 +14,7 @@ Title ID: `00040000001BB200`
 * Maps ZR to center of touch screen for Morph Ball
 
 ## Super Mario 3D Land
-Title ID: `0004000000054000`
+Title ID [NA]: `0004000000054000`
 > C-Stick camera movement, and SELECT for Item Reserve!
 
 * Maps C-Stick to touch-buttons for camera movement
@@ -26,7 +26,7 @@ Title ID: `0004000000054000`
 > I really don't like touching the touch screen with my thumbs.
 
 ### LEGO City Undercover: The Chase Begins
-Title ID: `00040000000AD500`
+Title ID [NA]: `00040000000AD500`
 > No more taking your thumb off the circle pad to switch costumes!
 > (Oh right there's also C-Stick camera movement)
 
@@ -37,7 +37,7 @@ Title ID: `00040000000AD500`
 **Game has invert-camera option built-in!**
 
 ### LEGO Legends of Chima: Laval's Journey
-Title ID: `00040000000AF800`  
+Title ID [NA]: `00040000000AF800`  
 * Maps C-Stick to L/R for camera movement
 * Maps ZL/ZR to the map buttons on the touch screen
 * Maps SELECT to the center of the touch screen to CHI up
@@ -46,7 +46,7 @@ Title ID: `00040000000AF800`
 **Game has invert-camera option built-in!**
 
 ### The LEGO Movie Videogame
-Title ID: `0004000000105A00`  
+Title ID [NA]: `0004000000105A00`  
 * Maps ZR to the Special Attack button on the touch screen
 * Maps ZL to the character icon on the touch screen
 * Maps SELECT to the center of the touch screen (for free play character switching)
